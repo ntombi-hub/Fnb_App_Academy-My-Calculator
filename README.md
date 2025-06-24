@@ -1,8 +1,8 @@
 # Fnb_App_Academy-My-Calculator
 # Cute Calculator App
 
-A simple, cute, and colorful calculator built with HTML, CSS, and JavaScript.  
-Perfect for quick calculations with a charming pastel design!
+A simple and colorful calculator built with HTML, CSS, and JavaScript.  
+
 
 ---
 
